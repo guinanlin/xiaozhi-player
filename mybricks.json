@@ -1,0 +1,9 @@
+{
+  "comAry": [
+    "./src/_toplComDemo/com.json",
+    "./src/geoComDemo/com.json",
+    "./src/xiaozhiPlayer/com.json"
+  ],
+  "componentType": "MP",
+  "namespace": "comlib.dty"  
+}

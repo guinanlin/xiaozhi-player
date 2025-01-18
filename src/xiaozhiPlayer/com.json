@@ -1,0 +1,23 @@
+{
+  "title": "小智播放插件",
+  "namespace": "dty.xiaozhiPlayer",
+  "author": "mybricks-team",
+  "author_name": "小智",
+  "icon": "./icon.svg",
+  "version": "1.0.0",
+  "description": "",
+  "runtime": "./runtime.tsx",
+  "data": "./data.json",
+  "editors": "./editors.tsx",
+  "miniapp": {
+    "plugin": {
+      "xzb": {
+        "version": "1.0.11",
+        "provider": "wx5474241b2a65b906",
+        "usingComponents": {
+          "xzb-video": "plugin://xzb/t-video"
+        }
+      }
+    }
+  }
+}
